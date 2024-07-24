@@ -5,9 +5,9 @@
 - 
   -  [Weather Dataset Analysis](https://github.com/enny231/Weather-Dataset-Analysis) 
 -
-  - [Sales Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Sales Dataset Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 -
-  - [World population Analysis](https://github.com/enny231/World-population-Analysis-)
+  - [World population Dataset Analysis](https://github.com/enny231/World-population-Analysis-)
 
 
 
