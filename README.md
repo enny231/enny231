@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analysis Projects :</h2>
 
-- <b>Weather Dataset Analysis </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- 
+  -  [Weather Dataset Analysis](https://https://github.com/enny231/Weather-Dataset-Analysis) 
 - <b>Sales Analysis</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>World population Analysis </b>
