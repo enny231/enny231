@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Data Analysis Projects :</h2>
 
-- 
-    [Weather Dataset Analysis](https://github.com/enny231/Weather-Dataset-Analysis) 
--
--
-   [World population Dataset Analysis](https://github.com/enny231/World-population-Analysis-)
+-   [Weather Dataset Analysis](https://github.com/enny231/Weather-Dataset-Analysis) 
+
+-   [Sales Dataset Analysis](https://github.com/enny231/Sales-Dataset-Analysis) 
+
+-   [World population Dataset Analysis](https://github.com/enny231/World-population-Analysis-)
 
 
 
